@@ -35,7 +35,7 @@ A modern, elegant PDF page splitting tool built with cutting-edge glassmorphism 
 
 1. **Clone or Download**
    ```bash
-   git clone https://github.com/yourusername/pdf-splitter-glassmorphism.git
+   git clone https://github.com/khemmanat/document-splitter-web.git
    cd pdf-splitter-glassmorphism
    ```
 
